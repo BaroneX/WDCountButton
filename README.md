@@ -11,3 +11,4 @@
     wdbut.nomalImage = [UIImage imageNamed:@"nomalImage.png"];
     [self.view addSubview:wdbut];
     
+ ![](https://github.com/CrazyCodeMan/WDCountButton/raw/master/sample.png)
