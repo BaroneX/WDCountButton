@@ -1,5 +1,7 @@
 # WDCountButton
+
 倒计时按钮
+  
     WDCountButton* wdbut = [[WDCountButton alloc]initWithFrame:CGRectMake(0, 0, 260, 106/2.8)];
     wdbut.countTime = 6;
     wdbut.center = CGPointMake(self.view.center.x, 100);
